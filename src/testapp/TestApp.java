@@ -21,5 +21,6 @@ double b = Double.valueOf(in.nextLine());
 SimpleCalc obj = new SimpleCalc ( a,  b);
 System.out.println("a+b="+(obj.getSum()));
 System.out.println("a-b="+(obj.getMinus()));
+System.out.println("a/b="+(obj.getDil()));
 } 
 }
