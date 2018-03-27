@@ -23,4 +23,7 @@ public double getSum() {
 public double getMinus() {
     return this.a-this.b;
 }
+public double getMnoz() {
+    return this.a*this.b;
+}
 }
