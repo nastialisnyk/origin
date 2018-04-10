@@ -29,4 +29,7 @@ public double getMnoz() {
 public double getDil() {
     return this.a/this.b;
 }
+public double getOstacha() {
+    return this.a%this.b;
+}
 }
