@@ -25,5 +25,6 @@ System.out.println("a-b="+(obj.getMinus()));
 System.out.println("a/b="+(obj.getDil()));
 System.out.println("a*b="+(obj.getMnoz()));
 System.out.println("a%b="+(obj.getOstacha()));
+System.out.println("GIT test application");
 } 
 }
