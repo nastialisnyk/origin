@@ -28,5 +28,7 @@ System.out.println("a%b="+(obj.getOstacha()));
 
 System.out.println("GIT test application");
 System.out.println("GIT test application123");
+System.out.println("Hello world");
+
 } 
 }
